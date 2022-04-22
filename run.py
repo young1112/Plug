@@ -1,0 +1,2 @@
+import Plug
+Plug.outfits()
